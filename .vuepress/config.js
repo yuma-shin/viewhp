@@ -24,7 +24,6 @@ module.exports = {
       ]
     }
   },
-  base: '/vuehp/docs/',
   dest: 'docs'
 }
 
